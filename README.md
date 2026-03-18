@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm \[Your Name] 👋
+# Hi, I'm Vinamra 👋
 
 **Data Scientist · PGDBA @ IIM Calcutta · IIT Kharagpur · ISI Kolkata**
 
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[!\[Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinamra-choudhary-9263488a/)
+[!\[Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinamra01c@gmail.com)
 
 
 
@@ -19,7 +19,7 @@ I'm a graduate student in the **PGDBA program** — a joint initiative of IIM Ca
 
 My work focuses on building rigorous, reproducible data science pipelines: from exploratory analysis to production-ready scripts. I care deeply about the *why* behind a model, not just the metric.
 
-* 🔭 Currently working on: **\[Your active project — e.g., quant signal research / NLP pipeline]**
+* 🔭 Currently working on: NLP Language models 
 * 🌱 Learning: **\[e.g., MLOps · Transformer fine-tuning · Causal Inference]**
 * 💬 Ask me about: **\[Your strongest area — e.g., time series / bioinformatics / sports analytics]**
 
